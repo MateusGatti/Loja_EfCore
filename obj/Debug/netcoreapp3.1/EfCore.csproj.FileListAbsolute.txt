@@ -54,8 +54,6 @@ C:\Users\mtgat\Documents\Projetos\API\EfCore\EfCore\bin\Debug\netcoreapp3.1\runt
 C:\Users\mtgat\Documents\Projetos\API\EfCore\EfCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\mtgat\Documents\Projetos\API\EfCore\EfCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\mtgat\Documents\Projetos\API\EfCore\EfCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\mtgat\Documents\Projetos\API\EfCore\EfCore\obj\Debug\netcoreapp3.1\EfCore.csproj.CoreCompileInputs.cache
-C:\Users\mtgat\Documents\Projetos\API\EfCore\EfCore\obj\Debug\netcoreapp3.1\EfCore.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\mtgat\Documents\Projetos\API\EfCore\EfCore\obj\Debug\netcoreapp3.1\EfCore.dll
 C:\Users\mtgat\Documents\Projetos\API\EfCore\EfCore\obj\Debug\netcoreapp3.1\EfCore.pdb
 C:\Users\mtgat\Documents\Projetos\API\EfCore\EfCore\obj\Debug\netcoreapp3.1\EfCore.genruntimeconfig.cache

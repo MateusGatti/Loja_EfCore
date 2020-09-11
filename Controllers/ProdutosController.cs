@@ -84,7 +84,7 @@ namespace EfCore.Controllers
         {
             try
             {
-                produto.Id = id;
+               
 
                 _produtoRepository.Editar(produto);
 
@@ -113,7 +113,7 @@ namespace EfCore.Controllers
             catch (Exception ex)
             {
 
-                return BadRequest(ex.Message)
+                return BadRequest(ex.Message);
             }
         }
     }

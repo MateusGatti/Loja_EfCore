@@ -7,8 +7,8 @@ namespace EfCore.Domains
 {
     public abstract class BaseDomain
     {
-        public Guid Id { get; set; }
-
+        public Guid Id { get; private set; }
+            
         public BaseDomain()
         {
             Id = Guid.NewGuid();
