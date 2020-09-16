@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EfCore</name>
+    </assembly>
+    <members>
+        <member name="M:EfCore.Controllers.ProdutosController.Get">
+            <summary>
+            Mostra os produtos cadastrados
+            </summary>
+            <returns>Lista de produtos</returns>
+        </member>
+        <member name="M:EfCore.Controllers.ProdutosController.Get(System.Guid)">
+            <summary>
+            Mostra um produto
+            </summary>
+            <param name="id">Id do produto</param>
+            <returns>produto com o id escolhido</returns>
+        </member>
+        <member name="M:EfCore.Controllers.ProdutosController.Post(EfCore.Domains.Produto)">
+            <summary>
+            Cadastra um produto
+            </summary>
+            <param name="produto">objeto produto</param>
+            <returns>Produto cadastrado</returns>
+        </member>
+        <member name="M:EfCore.Controllers.ProdutosController.Put(System.Guid,EfCore.Domains.Produto)">
+            <summary>
+            Altera um produto
+            </summary>
+            <param name="id">id do produto</param>
+            <param name="produto">objeto produto com as alterações</param>
+            <returns>produto alterado</returns>
+        </member>
+        <member name="M:EfCore.Controllers.ProdutosController.Delete(System.Guid)">
+            <summary>
+            Deleta um produto
+            </summary>
+            <param name="id">id do produto</param>
+            <returns>Id do produto excluido</returns>
+        </member>
+        <member name="M:EfCore.Interfaces.IPedidoRepository.Adicionar(System.Collections.Generic.List{EfCore.Domains.PedidoItem})">
+            <summary>
+            Adiciona um pedido
+            </summary>
+            <param name="pedidosItens"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EfCore.Repositories.ProdutoRepository.Adicionar(EfCore.Domains.Produto)">
+            <summary>
+            Adiciona um produto
+            </summary>
+            <param name="produto">objeto produto</param>
+        </member>
+        <member name="M:EfCore.Repositories.ProdutoRepository.BuscarPorId(System.Guid)">
+            <summary>
+            Busca um produto pelo id
+            </summary>
+            <param name="id">Id do produto</param>
+            <returns>Produto buscado</returns>
+        </member>
+        <member name="M:EfCore.Repositories.ProdutoRepository.BuscarPorNome(System.String)">
+            <summary>
+            Busca um produto pelo nome
+            </summary>
+            <param name="nome">Nome do produto</param>
+            <returns>Produto buscado</returns>
+        </member>
+        <member name="M:EfCore.Repositories.ProdutoRepository.Editar(EfCore.Domains.Produto)">
+            <summary>
+            Edita um produto
+            </summary>
+            <param name="produto">Produto que sera editado</param>
+        </member>
+        <member name="M:EfCore.Repositories.ProdutoRepository.Listar">
+            <summary>
+            Lista os produtos cadastrados
+            </summary>
+            <returns>Lista de produtos</returns>
+        </member>
+        <member name="M:EfCore.Repositories.ProdutoRepository.Remover(System.Guid)">
+            <summary>
+            Remove um produto
+            </summary>
+            <param name="id">Id do produto</param>
+        </member>
+    </members>
+</doc>

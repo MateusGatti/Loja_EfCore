@@ -112,8 +112,6 @@ C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\bin\Debug\netcoreapp3.1\run
 C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\obj\Debug\netcoreapp3.1\EfCore.csprojAssemblyReference.cache
 C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\obj\Debug\netcoreapp3.1\EfCore.AssemblyInfoInputs.cache
 C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\obj\Debug\netcoreapp3.1\EfCore.AssemblyInfo.cs
-C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\obj\Debug\netcoreapp3.1\EfCore.csproj.CoreCompileInputs.cache
-C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\obj\Debug\netcoreapp3.1\EfCore.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\obj\Debug\netcoreapp3.1\EfCore.RazorTargetAssemblyInfo.cache
 C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\obj\Debug\netcoreapp3.1\EfCore.csproj.CopyComplete
 C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\obj\Debug\netcoreapp3.1\staticwebassets\EfCore.StaticWebAssets.Manifest.cache
@@ -121,3 +119,12 @@ C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\obj\Debug\netcoreapp3.1\sta
 C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\obj\Debug\netcoreapp3.1\EfCore.dll
 C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\obj\Debug\netcoreapp3.1\EfCore.pdb
 C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\obj\Debug\netcoreapp3.1\EfCore.genruntimeconfig.cache
+C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\obj\Debug\netcoreapp3.1\EfCore.csproj.CoreCompileInputs.cache
+C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\obj\Debug\netcoreapp3.1\EfCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\obj\Debug\netcoreapp3.1\EfCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\bin\Debug\netcoreapp3.1\EfCore.xml
+C:\Users\mtgat\Documents\Projetos\API\EfCores\EfCore\obj\Debug\netcoreapp3.1\EfCore.xml
