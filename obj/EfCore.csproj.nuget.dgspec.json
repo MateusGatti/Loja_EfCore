@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mtgat\\Documents\\Projetos\\API\\EfCore\\EfCore\\EfCore.csproj": {}
+    "C:\\Users\\mtgat\\Documents\\Projetos\\API\\EfCores\\EfCore\\EfCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mtgat\\Documents\\Projetos\\API\\EfCore\\EfCore\\EfCore.csproj": {
+    "C:\\Users\\mtgat\\Documents\\Projetos\\API\\EfCores\\EfCore\\EfCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mtgat\\Documents\\Projetos\\API\\EfCore\\EfCore\\EfCore.csproj",
+        "projectUniqueName": "C:\\Users\\mtgat\\Documents\\Projetos\\API\\EfCores\\EfCore\\EfCore.csproj",
         "projectName": "EfCore",
-        "projectPath": "C:\\Users\\mtgat\\Documents\\Projetos\\API\\EfCore\\EfCore\\EfCore.csproj",
+        "projectPath": "C:\\Users\\mtgat\\Documents\\Projetos\\API\\EfCores\\EfCore\\EfCore.csproj",
         "packagesPath": "C:\\Users\\mtgat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mtgat\\Documents\\Projetos\\API\\EfCore\\EfCore\\obj\\",
+        "outputPath": "C:\\Users\\mtgat\\Documents\\Projetos\\API\\EfCores\\EfCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mtgat\\AppData\\Roaming\\NuGet\\NuGet.Config",

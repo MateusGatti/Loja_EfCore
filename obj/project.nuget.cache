@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MsbwE2MzsmR3CNY/vqyh/VATTWhIoR7usM6sVZTRcLGVTw+1sboP/raH7UdPmA+5MeJBCBFcqoxxxsBWuDE5vA==",
+  "dgSpecHash": "naTrswRhO9DE/Cl/pJWRljh4XET2yOBz5uAbXin4vfVR2wX1C2UAcE2h/kHMjQlY0tpWVwG1TRTwT/eVooUMRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mtgat\\Documents\\Projetos\\API\\EfCore\\EfCore\\EfCore.csproj",
+  "projectFilePath": "C:\\Users\\mtgat\\Documents\\Projetos\\API\\EfCores\\EfCore\\EfCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mtgat\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.8\\microsoft.aspnetcore.jsonpatch.3.1.8.nupkg.sha512",
     "C:\\Users\\mtgat\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.8\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.8.nupkg.sha512",
