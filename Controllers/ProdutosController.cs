@@ -56,6 +56,8 @@ namespace EfCore.Controllers
         [HttpGet("{id}")]
         public IActionResult Get(Guid id)
         {
+            Moeda dolar = new Moeda();
+
             try
             {
                 Produto produto = _produtoRepository.BuscarPorId(id);
@@ -63,7 +65,7 @@ namespace EfCore.Controllers
                 if (produto == null)
                     return NotFound();
 
-                return Ok(produto);
+                return Ok(new { produto, valorDolar = dolar.GetDolarValue() * produto.Preco });
 
             }
             catch (Exception ex)
